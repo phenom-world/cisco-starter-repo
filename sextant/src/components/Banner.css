@@ -1,0 +1,8 @@
+.banner-cont {
+  background: linear-gradient(#e66465, #9198e5);
+  height: "400px";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: azure;
+}

@@ -1,0 +1,25 @@
+.card {
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 8px 40px -3px rgba(0, 0, 0, 0.4);
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 300px;
+  max-height: 500px;
+  margin-left: auto;
+  padding: 40px;
+  margin-right: auto;
+}
+
+.datapoint {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.data {
+  background-color: beige;
+  padding: 10px;
+  text-align: center;
+}
